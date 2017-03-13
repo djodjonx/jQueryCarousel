@@ -1,6 +1,6 @@
 FOR VIEW the carousel:
 
 Open console:
-  -in current of carousel directory launch :
+  -in current directory of carousel launch :
 
   python -m SimpleHTTPServer 8000
